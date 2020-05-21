@@ -1,0 +1,8 @@
+import React from 'react'
+import Calendar from '../Calendar'
+
+export default {
+    title: 'Calendar'
+}
+
+export const DaysInMonth = () => <Calendar />
